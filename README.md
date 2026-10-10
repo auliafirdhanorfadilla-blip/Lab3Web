@@ -22,3 +22,9 @@ Buat file baru dengan nama **style_eksternal.css** lalu deklarasikan.
 ![Gambar 7](ssc/ss4.png)
 Berikut, Outputnya :
 ![Gambar 8](ssc/output4.png)
+
+## 5. Menambahkan CSS Selector
+Tambahkan CSS Selector menggunakan ID dan Class Selector di file **style_eksternal.css**.
+![Gambar 9](ssc/ss5.png)
+Berikut, Outputnya :
+![Gambar 10](ssc/output5.png)
