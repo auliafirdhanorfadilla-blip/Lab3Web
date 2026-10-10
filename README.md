@@ -28,3 +28,10 @@ Tambahkan CSS Selector menggunakan ID dan Class Selector di file **style_ekstern
 ![Gambar 9](ssc/ss5.png)
 Berikut, Outputnya :
 ![Gambar 10](ssc/output5.png)
+
+- **Informasi Tambahan**
+Cara melakukan validasi dokumen CSS dengan mengakses **<https://jigsaw.w3.org/css-validator/>**,
+klik *By File Upload*, lalu pilih file css yang ingin dicek
+![Gambar 11](ssc/ss6.png)
+Berikut, hasil css tanpa error
+![Gambar 12](ssc/output6.png)
